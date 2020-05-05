@@ -1,4 +1,4 @@
-package gson;
+package json;
 
 public class BookDTO {
 	
