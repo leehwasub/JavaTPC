@@ -5,5 +5,11 @@
 	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/gson-2.8.6.jar"/>
 	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/json-20190722.jar"/>
 	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Leehwasub/Downloads/SparseBitSet-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
